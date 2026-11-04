@@ -1,0 +1,5 @@
+[[Java]]
+[[Pointers]]
+[[Terminal commands]]
+[[DSA]]
+[[C]]
